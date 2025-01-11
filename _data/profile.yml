@@ -3,9 +3,9 @@ secondary_name: ""
 navbar_name: "S. Farhad Abdollahi"
 
 positions:
-- logo: /academic-homepage/assets/images/badges/USDOT.svg  # Logo is optional
-  name: Research Engineer
-# - name: Position 2 without logo
+- logo: /assets/images/badges/USDOT_logo.png  # Logo is optional
+  name: Research Engineer @ Turner-Fairbank Highway Research Center (TFHRC)
+- name: Genex Systems
 
 
 email: "farhad.abdollahi.ctr@dot.gov"
@@ -22,14 +22,14 @@ orcid: 0000-0002-5165-4448
 short_bio_text_justify: true
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    Civil engineer, specilized in pavement engineering, materials characterization, and modeling. 
   </p>
   <p>
     With over 7 years of graduate academic experience, I am passionate about pavement and geotechnical engineering, 
     focusing on analyzing and designing pavements and roadways, as well as conducting high-level network analysis for 
     pavement management. My research focuses on the effects of climate change on pavement performance and pavement 
     structural analysis and design, where my findings published in prestigious conferences and journals such as the 
-    Transportation Research Board (TRB), International Journal of Pavement Engineering (IJPE), and Construction and Building Materials (CBM), etc.
+    Transportation Research Board (TRB), International Journal of Pavement Engineering (IJPE), and Construction and Building Materials (CBM), etc. <br/>
 
     I have developed advanced programming skills to create practical tools and programs that facilitate industry-level 
     analyses. Throughout my academic journey, I have gained extensive experience in material testing, teamwork, and 
@@ -38,36 +38,38 @@ short_bio: >-
     University of Technology. I have received multiple honors for my academic excellence.
   </p>
 
-portrait_url: /academic-homepage/assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/portrait.jpg
 # portrait_caption: >-
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: Michigan State University
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Civil and Environmental Engineering <br/>
-    Ph.D. in Civil Engineering (Pavement Engineering)
+  logo: /assets/images/badges/MSU_logo.png
+  position: Ph.D. in Civil Engineering (Pavement Engineering)
   date: May. 2021 - Oct. 2024
 - name: Sharif University of Technology
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/Sharif_logo.png
   position: M.Sc. in Civil Engineering (Road and Transportation)
   date: Sep. 2017 - May. 2020
 - name: Sharif University of Technology
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/Sharif_logo.png
   position: B.Sc. in Civil Engineering
   date: Sep. 2013 - Sep. 2017
 
 experience:
 - name: Genex Systems | Turner-Fairbank Highway Research Center (TFHRC)
-  logo: /assets/images/badges/PKU_red.png
-  position: Research Engineer
+  logo: /assets/images/badges/Genex_logo.png
+  position: >- 
+    Research Engineer at <br/>
+    Asphalt Binder and Mixture Laboratory
   date: Nov. 2024 - present
 
 awards:
-- name: Award Name 2
+- name: TRB Best Poster Award (AKP00(2) Subcommittee of Sustainable and Resilient Pavement)
+  date: 2025
+- name: TRB Best Poster Award (AKP30 Standing Committee of Design and Rehabilitation of Asphalt Pavements)
   date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: Outstanding Graduate Student Award (College of Engineering at Michigan State University) 
+  date: 2024
+- name: Ranked 1st in Pavement Engineering Program at Sharif University of Technology
+  date: 2019
