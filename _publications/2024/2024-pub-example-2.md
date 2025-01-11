@@ -1,7 +1,7 @@
 ---
 title:          "Development of a Mechanistic-Empirical-Based Highway Cost Allocation Model for Flexible Pavements"
 date:           2024-01-20 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "Transportation Research Record (TRR)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
