@@ -1,7 +1,7 @@
 ---
 title:          "Cracking performance of rubberized RAP mixtures with Sasobit"
 date:           2022-02-14 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "Construction and Building Materials (CBM)"
 pub_date:       "2022"
 abstract: >-
