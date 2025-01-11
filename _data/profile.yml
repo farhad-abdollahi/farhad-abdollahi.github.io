@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "S. Farhad Abdollahi"
 
 positions:
-- logo: /assets/images/badges/USDOT.svg  # Logo is optional
+- logo: /academic-homepage/assets/images/badges/USDOT.svg  # Logo is optional
   name: Research Engineer
 # - name: Position 2 without logo
 
@@ -38,7 +38,7 @@ short_bio: >-
     University of Technology. I have received multiple honors for my academic excellence.
   </p>
 
-portrait_url: {{ site.baseurl }}/assets/images/photos/portrait.jpg
+portrait_url: /academic-homepage/assets/images/photos/portrait.jpg
 # portrait_caption: >-
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
