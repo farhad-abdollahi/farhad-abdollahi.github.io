@@ -4,8 +4,8 @@ navbar_name: "S. Farhad Abdollahi"
 
 positions:
 - logo: /assets/images/badges/USDOT_logo.png  # Logo is optional
-  name: Research Engineer
-# - name: Position 2 without logo
+  name: Research Engineer @ Turner-Fairbank Highway Research Center (TFHRC)
+- name: Genex Systems
 
 
 email: "farhad.abdollahi.ctr@dot.gov"
@@ -65,9 +65,11 @@ experience:
   date: Nov. 2024 - present
 
 awards:
-- name: Award Name 2
+- name: TRB Best Poster Award (AKP00(2) Subcommittee of Sustainable and Resilient Pavement)
+  date: 2025
+- name: TRB Best Poster Award (AKP30 Standing Committee of Design and Rehabilitation of Asphalt Pavements)
   date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: Outstanding Graduate Student Award (College of Engineering at Michigan State University) 
+  date: 2024
+- name: Ranked 1st in Pavement Engineering Program at Sharif University of Technology
+  date: 2019
