@@ -1,6 +1,6 @@
 ---
 title:          "Development of a Computer Program for Calculation of the Alpha Parameter in the Linear Amplitude Sweep Test and Comparison with Rheological Parameters"
-date:           2022-06-12 00:01:00 +0800
+date:           2020-06-12 00:01:00 +0800
 selected:       false
 pub:            "Transportation Research Record (TRR)"
 pub_date:       "2020"
