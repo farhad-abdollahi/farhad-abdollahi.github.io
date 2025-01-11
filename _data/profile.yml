@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "S. Farhad Abdollahi"
 
 positions:
-- logo: /assets/images/badges/USDOT.svg  # Logo is optional
+- logo: /assets/images/badges/USDOT_logo.png  # Logo is optional
   name: Research Engineer
 # - name: Position 2 without logo
 
@@ -44,24 +44,24 @@ portrait_url: /assets/images/photos/portrait.jpg
 
 education:
 - name: Michigan State University
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Civil and Environmental Engineering <br/>
-    Ph.D. in Civil Engineering (Pavement Engineering)
+  logo: /assets/images/badges/MSU_logo.png
+  position: Ph.D. in Civil Engineering (Pavement Engineering)
   date: May. 2021 - Oct. 2024
 - name: Sharif University of Technology
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/Sharif_logo.png
   position: M.Sc. in Civil Engineering (Road and Transportation)
   date: Sep. 2017 - May. 2020
 - name: Sharif University of Technology
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/Sharif_logo.png
   position: B.Sc. in Civil Engineering
   date: Sep. 2013 - Sep. 2017
 
 experience:
 - name: Genex Systems | Turner-Fairbank Highway Research Center (TFHRC)
-  logo: /assets/images/badges/PKU_red.png
-  position: Research Engineer
+  logo: /assets/images/badges/Genex_logo.png
+  position: >- 
+    Research Engineer at <br/>
+    Asphalt Binder and Mixture Laboratory
   date: Nov. 2024 - present
 
 awards:
