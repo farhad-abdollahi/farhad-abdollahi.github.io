@@ -57,12 +57,18 @@ education:
   date: Sep. 2013 - Sep. 2017
 
 experience:
+- name: AGR LLC | Turner-Fairbank Highway Research Center (TFHRC)
+  logo: /assets/images/badges/AGR-logo.svg
+  position: >- 
+    Senior Research Engineer at <br/>
+    Asphalt Binder and Mixture Laboratory
+  date: Jun. 2026 - present
 - name: Genex Systems | Turner-Fairbank Highway Research Center (TFHRC)
   logo: /assets/images/badges/Genex_logo.png
   position: >- 
     Research Engineer at <br/>
     Asphalt Binder and Mixture Laboratory
-  date: Nov. 2024 - present
+  date: Nov. 2024 - May 2026
 
 awards:
 - name: TRB Best Poster Award (AKP00(2) Subcommittee of Sustainable and Resilient Pavement)
